@@ -27,19 +27,7 @@ const headerData = {
       id: 5,
       href: "#blog",
       name: "Blog",
-      subItems: [
-        {
-          id: 1,
-          href: "/blog",
-          name: "Blog Style 01",
-        },
-        {
-          id: 2,
-          href: "/blog-details",
-          name: "Blog Details",
-        },
-      ],
-    },
+         },
     {
       id: 6,
       href: "#contact",
